@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(43, 115, 117);
+    
+
+}
+#imgg{
+    width: 311px;
+    height: 248.734;
+    margin-top: 69px;
+    margin-left: 332px;}
+   
+   
+.button {
+        background-color: #47128d; /* Green */
+        border: none;
+        color: rgb(226, 27, 27);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
